@@ -4,7 +4,7 @@
 
 <!-- ここにページ毎のコンテンツを書く -->
   <div class="row">
-   <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-lg-offset-3 col-lg-6">
+   <div class="col-xs-offset-1 col-xs-9 col-sm-offset-2 col-sm-8">
        
     <h1>タスク一覧</h1>
 
